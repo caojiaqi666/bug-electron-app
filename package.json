@@ -26,8 +26,8 @@
         "url": "http://127.0.0.1"
       }
     ],
-    "productName": "electron-vue-admin",
-    "appId": "org.Sky.electron-vue",
+    "productName": "Bug管理系统",
+    "appId": "org.Cjq.electron-vue",
     "directories": {
       "output": "build"
     },
